@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-09T18:50:10 IST" name="Default suite" finished-at="2021-08-09T18:50:15 IST" duration-ms="5149">
+    <groups>
+    </groups>
+    <test started-at="2021-08-09T18:50:10 IST" name="Default test" finished-at="2021-08-09T18:50:15 IST" duration-ms="5149">
+      <class name="TestExi.TestExigo">
+        <test-method is-config="true" signature="initiatebrowser()[pri:0, instance:TestExi.TestExigo@649bec2e]" started-at="2021-08-09T18:50:10 IST" name="initiatebrowser" finished-at="2021-08-09T18:50:14 IST" duration-ms="4885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatebrowser -->
+        <test-method signature="gettitle()[pri:1, instance:TestExi.TestExigo@649bec2e]" started-at="2021-08-09T18:50:14 IST" name="gettitle" finished-at="2021-08-09T18:50:14 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gettitle -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestExi.TestExigo@649bec2e]" started-at="2021-08-09T18:50:14 IST" name="close" finished-at="2021-08-09T18:50:15 IST" duration-ms="196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestExi.TestExigo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
